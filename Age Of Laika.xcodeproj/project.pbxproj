@@ -14,6 +14,7 @@
 		848016561EB4F6E70075326E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 848016541EB4F6E70075326E /* LaunchScreen.storyboard */; };
 		848016611EB4F6E70075326E /* Age_Of_LaikaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848016601EB4F6E70075326E /* Age_Of_LaikaTests.swift */; };
 		8480166C1EB4F6E70075326E /* Age_Of_LaikaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8480166B1EB4F6E70075326E /* Age_Of_LaikaUITests.swift */; };
+		8480167A1EB4F9430075326E /* AgeOfLaika.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 848016791EB4F9430075326E /* AgeOfLaika.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		848016671EB4F6E70075326E /* Age Of LaikaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Age Of LaikaUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8480166B1EB4F6E70075326E /* Age_Of_LaikaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Age_Of_LaikaUITests.swift; sourceTree = "<group>"; };
 		8480166D1EB4F6E70075326E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		848016791EB4F9430075326E /* AgeOfLaika.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AgeOfLaika.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				848016521EB4F6E70075326E /* Assets.xcassets */,
 				848016541EB4F6E70075326E /* LaunchScreen.storyboard */,
 				848016571EB4F6E70075326E /* Info.plist */,
+				848016791EB4F9430075326E /* AgeOfLaika.jpg */,
 			);
 			path = "Age Of Laika";
 			sourceTree = "<group>";
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				848016561EB4F6E70075326E /* LaunchScreen.storyboard in Resources */,
+				8480167A1EB4F9430075326E /* AgeOfLaika.jpg in Resources */,
 				848016531EB4F6E70075326E /* Assets.xcassets in Resources */,
 				848016511EB4F6E70075326E /* Main.storyboard in Resources */,
 			);
